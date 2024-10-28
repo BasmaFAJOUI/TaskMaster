@@ -23,7 +23,6 @@ Le besoin de gestion efficace des tâches est crucial dans un environnement de t
 - **Backend** : Java EE, Apache Tomcat
 - **Base de Données** : MySQL
 - **Outils de Développement** : NetBeans, GitHub pour le versionnage
-- **Documentation** : LaTeX pour la rédaction des documents techniques
 
 ## Installation
 
